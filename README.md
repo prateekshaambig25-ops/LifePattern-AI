@@ -5,11 +5,14 @@
 
 ## 🌍 Overview
 LifePattern AI is a personal health intelligence platform designed to help individuals understand their daily lifestyle patterns through data-driven analysis.
+
 Instead of simply displaying health statistics, the system explores relationships between sleep, physical activity, hydration and mood to generate personalized lifestyle recommendations.
+
 Our goal is to transform everyday health records into meaningful insights that encourage better lifestyle decisions.
 
 ## 🎯 Problem Statement
 People generate health-related data through smartphones, wearable devices and health applications. However, understanding relationships between different daily habits and converting that information into actionable decisions remains challenging.
+
 LifePattern AI addresses this challenge by bringing personal health parameters together and analysing individual lifestyle patterns.
 
 ## 💡 Proposed Solution
@@ -114,8 +117,7 @@ streamlit run app.py
 ## 🌱 Expected Impact
 LifePattern AI aims to improve personal health awareness, encourage consistent lifestyle habits and make individual health insights more accessible.
 
-## ⚠️ Disclaimer
-This project is an educational prototype intended for general lifestyle awareness. It does not provide medical diagnosis or replace professional healthcare advice.
+
 
 ---
 
